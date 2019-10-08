@@ -1,0 +1,13 @@
+{
+    "name": "vendor/api-tempo",
+    "description": "Description of project api_tempo.",
+    "authors": [
+        {
+            "name": "Aluno",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "dev-master"
+    }
+}
